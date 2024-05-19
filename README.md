@@ -1,2 +1,5 @@
-# Godot 2D tutorial
- Tutorial from godot.com followed by me about how to make a 2D game with the engine.
+# Dodge the Creeps 2D assets
+
+Used by the "Your first 2D game" tutorial:
+
+https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html
